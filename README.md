@@ -29,11 +29,11 @@
   streamlit run App.py --server.port 80
   ```
 
--sudo su
--yum install git
--yum install python3
--yum install python3-pip
--git clone https://github.com/Kuntal271/NewsApp ~/NewsApp && cd NewsApp
--pip3 install -r requirements.txt
--streamlit run App.py --server.port 80
+- sudo su
+- yum install git
+- yum install python3
+- yum install python3-pip
+- git clone https://github.com/Kuntal271/NewsApp ~/NewsApp && cd NewsApp
+- pip3 install -r requirements.txt
+- streamlit run App.py --server.port 80
 
