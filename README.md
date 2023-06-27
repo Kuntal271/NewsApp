@@ -37,3 +37,5 @@
 - pip3 install -r requirements.txt
 - streamlit run App.py --server.port 80
 
+- https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html
+
